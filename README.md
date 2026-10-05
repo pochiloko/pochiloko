@@ -119,55 +119,6 @@ Después:
 
 La IA también forma parte de mi flujo de trabajo. La utilizo principalmente para **investigar, encontrar alternativas, detectar detalles y mejorar soluciones**, sin dejar de entender lo que estoy haciendo.
 
----
-
-## 📌 Proyectos personales
-
-### 💼 NineJobs
-
-Plataforma web orientada a la publicación y búsqueda de ofertas laborales.
-
-**Tecnologías:**
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
-
-</div>
-
-* Publicación de ofertas
-* Búsqueda de ofertas
-* Visualización de información
-* Gestión mediante `localStorage`
-* Interfaz responsive
-* Organización por diferentes secciones
-
----
-
-### 🟡 The Simpsons API
-
-Proyecto desarrollado para trabajar con una API externa y practicar el manejo de datos dinámicos.
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
-
-</div>
-
-Incluye:
-
-* Consumo de API
-* Búsqueda de personajes
-* Paginación
-* Sistema de favoritos
-* Manipulación del DOM
-* Manejo de datos dinámicos
-
----
 
 ## 📊 GitHub
 
