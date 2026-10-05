@@ -1,128 +1,134 @@
-# Santiago Drapperi — Pochi
+# Santiago Drapperi
 
-💻 **Front-End Developer**
-🤖 **IA como herramienta de desarrollo**
-🛠️ **Sistemas funcionales y fáciles de usar**
+### Pochi 👋
 
----
+> **Creo soluciones que funcionan, se entienden y se disfrutan.**
 
-## 👋 Sobre mí
-
-Soy **Santiago Drapperi**, pero me dicen **Pochi**.
-
-Trabajo en el desarrollo de múltiples sistemas y aplicaciones para una fábrica, formando parte de un equipo y participando tanto en el desarrollo como en la organización y resolución de problemas.
-
-Me gusta crear soluciones que no solamente funcionen, sino que sean **fáciles de entender, agradables de utilizar y profesionales**.
-
-Cuando aparece un problema intento entenderlo, investigar, probar diferentes soluciones y utilizar las herramientas disponibles para llegar al mejor resultado.
-
-También utilizo **IA como parte de mi proceso de desarrollo**, especialmente para investigar, resolver problemas, revisar detalles y encontrar cosas que puedan mejorar la experiencia del usuario.
+💻 Front-End · 🤖 IA · 🛠️ Tecnología · 🎮 Gaming
 
 ---
 
-## 🏭 Experiencia real
+## Sobre mí
 
-### Sistemas y aplicaciones para una fábrica
+Soy **Santiago Drapperi**, aunque casi todos me conocen como **Pochi**.
 
-Trabajo con múltiples programas y aplicaciones destinados a resolver necesidades concretas dentro de un entorno real.
+Trabajo desarrollando sistemas y aplicaciones para una fábrica, donde formo parte de un equipo y participo en la organización y resolución de problemas.
 
-Esto implica trabajar con problemas reales, usuarios reales y necesidades que no siempre tienen una solución evidente.
+Mi objetivo cuando desarrollo algo es bastante simple:
 
-Los sistemas de este entorno son privados, por lo que no publico su código, pero forman parte de mi experiencia práctica.
+**que funcione bien y que sea agradable de usar.**
 
-**Enfoque:**
+Me gusta crear programas fáciles de entender, que cumplan su función sin dejar de lado el diseño ni la funcionalidad.
 
-* Resolver problemas reales
-* Crear herramientas funcionales
+No me interesa solamente llegar a un resultado. También me importa revisar los detalles y evitar esos pequeños problemas que pueden terminar molestando a quien utiliza el programa.
+
+---
+
+## 🏭 Lo que hago
+
+Actualmente desarrollo **múltiples sistemas y aplicaciones para una fábrica**, trabajando sobre necesidades reales.
+
+Son proyectos privados, por lo que no puedo publicar su código, pero esta experiencia me permite trabajar con problemas concretos y buscar soluciones que realmente tengan utilidad.
+
+También estoy empezando a llevar este tipo de desarrollo hacia **otros negocios y proyectos**.
+
+---
+
+## 🤖 IA + Desarrollo
+
+La inteligencia artificial forma parte de mi forma de trabajar.
+
+Utilizo herramientas como **Claude Code** para:
+
+* Investigar problemas
+* Probar soluciones
+* Revisar código
+* Encontrar errores
+* Pulir detalles
 * Mejorar la experiencia de usuario
-* Mantener un buen diseño
-* Investigar y probar soluciones
-* Utilizar IA como herramienta de apoyo
-* Trabajar dentro de un equipo
+* Evitar dejar cabos sueltos
+
+Para mí, la IA es una **herramienta**, no un reemplazo de entender lo que estoy haciendo.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Lo que uso
 
-### Front-End
+**Frontend**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+`HTML` `CSS` `JavaScript` `React`
 
-### Programming
+**Programming**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+`Python`
 
-### AI & Development
+**AI**
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
+`Claude Code` `AI Tools`
 
-### Tools & Deployment
+**Development**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+`Git` `GitHub` `Vercel`
+
+Y sigo incorporando nuevas herramientas a medida que las necesito.
 
 ---
 
-## 🚀 Projects
+## 🚀 Mis proyectos
 
 ### 🟢 NineJobs
 
-Plataforma web enfocada en ofertas laborales.
+Una plataforma web de ofertas laborales.
 
-**Stack:** HTML · CSS · JavaScript
+Proyecto donde trabajo con interfaces, formularios, información dinámica y diferentes páginas dentro de una misma aplicación.
 
-Proyecto desarrollado para practicar la creación de una aplicación web completa, trabajando con interfaces, formularios, almacenamiento de información y diferentes páginas.
+**HTML · CSS · JavaScript**
 
 ---
 
 ### 🟡 The Simpsons API
 
-Aplicación web que consume una API y muestra información de personajes de **The Simpsons**.
+Una aplicación web que utiliza una API para obtener y mostrar información de personajes de Los Simpson.
 
-**Stack:** HTML · CSS · JavaScript · REST API
+Fue uno de mis proyectos para aprender a trabajar con APIs, datos dinámicos y JavaScript.
 
-Proyecto enfocado en aprender a trabajar con APIs, peticiones, datos dinámicos y manipulación del DOM.
-
----
-
-## 🧠 How I work
-
-```text
-Problema
-   ↓
-Entender
-   ↓
-Investigar
-   ↓
-Probar
-   ↓
-Resolver
-   ↓
-Pulir
-   ↓
-Resultado
-```
-
-Busco entregar soluciones que sean:
-
-**Funcionales · Claras · Profesionales · Fáciles de usar**
+**HTML · CSS · JavaScript · REST API**
 
 ---
 
-## 🎮 Beyond Code
+## 🧩 Cómo trabajo
 
-🎮 Gaming
-🤖 Inteligencia Artificial
-💻 Tecnología
-🧠 Aprendizaje constante
+Cuando encuentro un problema intento:
+
+**Entender → Investigar → Probar → Resolver → Pulir**
+
+Si no sé algo, lo investigo.
+
+Si una solución no funciona, pruebo otra.
+
+Y si necesito ayuda, la busco.
+
+Lo importante para mí es llegar a un resultado que realmente sirva.
 
 ---
 
-## 📈 GitHub
+## 🎮 Un poco más de mí
 
-> Construyendo proyectos, aprendiendo nuevas tecnologías y mejorando poco a poco.
+Además del desarrollo, me interesan:
+
+🎮 **Gaming**
+🤖 **Inteligencia Artificial**
+💻 **Tecnología**
+
+Me gusta aprender cosas nuevas y convertir lo que aprendo en algo que pueda utilizar.
+
+---
+
+### 📌 Actualmente
+
+> Desarrollando sistemas para entornos reales, construyendo proyectos propios y aprendiendo nuevas herramientas para seguir mejorando.
+
+---
+
+**Santiago Drapperi — Pochi**
+*Building things that work.*
