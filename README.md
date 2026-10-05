@@ -54,21 +54,31 @@ Para mí, la IA es una **herramienta**, no un reemplazo de entender lo que estoy
 
 ## 🛠️ Lo que uso
 
-**Frontend**
+⚡ Tech Stack
+Front-End
 
-`HTML` `CSS` `JavaScript` `React`
 
-**Programming**
 
-`Python`
 
-**AI**
 
-`Claude Code` `AI Tools`
 
-**Development**
 
-`Git` `GitHub` `Vercel`
+Programming
+
+
+
+
+AI & Development
+
+
+
+
+
+Tools & Deployment
+
+
+
+
 
 Y sigo incorporando nuevas herramientas a medida que las necesito.
 
@@ -83,16 +93,6 @@ Una plataforma web de ofertas laborales.
 Proyecto donde trabajo con interfaces, formularios, información dinámica y diferentes páginas dentro de una misma aplicación.
 
 **HTML · CSS · JavaScript**
-
----
-
-### 🟡 The Simpsons API
-
-Una aplicación web que utiliza una API para obtener y mostrar información de personajes de Los Simpson.
-
-Fue uno de mis proyectos para aprender a trabajar con APIs, datos dinámicos y JavaScript.
-
-**HTML · CSS · JavaScript · REST API**
 
 ---
 
