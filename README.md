@@ -1,134 +1,202 @@
-# Santiago Drapperi
+<div align="center">
 
-### Pochi 👋
+# 👋 ¡Hola! Soy Santiago Drapperi
 
-> **Creo soluciones que funcionan, se entienden y se disfrutan.**
+### 💻 Developer · Problem Solver · Tech Enthusiast
 
-💻 Front-End · 🤖 IA · 🛠️ Tecnología · 🎮 Gaming
+**Creo sistemas y aplicaciones enfocados en resolver problemas reales,
+buscando que sean funcionales, claros y agradables de usar.**
 
----
+<br>
 
-## Sobre mí
+<img src="https://komarev.com/ghpvc/?username=pochiloko&label=Profile%20Views&color=91e989&style=flat" alt="Profile views">
 
-Soy **Santiago Drapperi**, aunque casi todos me conocen como **Pochi**.
-
-Trabajo desarrollando sistemas y aplicaciones para una fábrica, donde formo parte de un equipo y participo en la organización y resolución de problemas.
-
-Mi objetivo cuando desarrollo algo es bastante simple:
-
-**que funcione bien y que sea agradable de usar.**
-
-Me gusta crear programas fáciles de entender, que cumplan su función sin dejar de lado el diseño ni la funcionalidad.
-
-No me interesa solamente llegar a un resultado. También me importa revisar los detalles y evitar esos pequeños problemas que pueden terminar molestando a quien utiliza el programa.
+</div>
 
 ---
 
-## 🏭 Lo que hago
+## 🧑‍💻 Sobre mí
 
-Actualmente desarrollo **múltiples sistemas y aplicaciones para una fábrica**, trabajando sobre necesidades reales.
+Soy desarrollador enfocado en crear **sistemas y aplicaciones funcionales para necesidades reales**.
 
-Son proyectos privados, por lo que no puedo publicar su código, pero esta experiencia me permite trabajar con problemas concretos y buscar soluciones que realmente tengan utilidad.
+Actualmente trabajo desarrollando diferentes soluciones para una fábrica, participando tanto en la creación como en la mejora y organización de distintos sistemas.
 
-También estoy empezando a llevar este tipo de desarrollo hacia **otros negocios y proyectos**.
+También estoy comenzando a llevar este tipo de soluciones hacia **otros negocios y proyectos**.
 
----
+Me gusta entender el problema antes de programar, investigar cuando algo no funciona, probar diferentes soluciones y después pulir los detalles.
 
-## 🤖 IA + Desarrollo
+> **Entender → Investigar → Probar → Resolver → Pulir**
 
-La inteligencia artificial forma parte de mi forma de trabajar.
-
-Utilizo herramientas como **Claude Code** para:
-
-* Investigar problemas
-* Probar soluciones
-* Revisar código
-* Encontrar errores
-* Pulir detalles
-* Mejorar la experiencia de usuario
-* Evitar dejar cabos sueltos
-
-Para mí, la IA es una **herramienta**, no un reemplazo de entender lo que estoy haciendo.
+Mi objetivo no es simplemente hacer que un programa "funcione", sino conseguir que sea **útil, fácil de usar y profesional**.
 
 ---
 
-## 🛠️ Lo que uso
+## 🛠️ Tecnologías & herramientas
 
-⚡ Tech Stack
-Front-End
+<div align="center">
 
+### 🌐 Frontend
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
+</p>
 
+**HTML · CSS · JavaScript · React · JSX · Node.js**
 
+### 🐍 Programming & Data
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50" height="50" alt="JSON"/>
+</p>
 
+**Python · JSON · REST APIs · API Integration**
 
-Programming
+### 🔧 Development Tools
 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" height="50" alt="Vercel"/>
+</p>
 
+**Git · GitHub · VS Code · npm · Vercel**
 
+### 🤖 AI & Development
 
-AI & Development
+<p>
+<img src="https://cdn.simpleicons.org/anthropic" width="50" height="50" alt="Anthropic"/>
+</p>
 
+**AI-assisted development · Claude Code · AI tools**
 
-
-
-
-Tools & Deployment
-
-
-
-
-
-Y sigo incorporando nuevas herramientas a medida que las necesito.
-
----
-
-## 🚀 Mis proyectos
-
-### 🟢 NineJobs
-
-Una plataforma web de ofertas laborales.
-
-Proyecto donde trabajo con interfaces, formularios, información dinámica y diferentes páginas dentro de una misma aplicación.
-
-**HTML · CSS · JavaScript**
-
----
-
-## 🧩 Cómo trabajo
-
-Cuando encuentro un problema intento:
-
-**Entender → Investigar → Probar → Resolver → Pulir**
-
-Si no sé algo, lo investigo.
-
-Si una solución no funciona, pruebo otra.
-
-Y si necesito ayuda, la busco.
-
-Lo importante para mí es llegar a un resultado que realmente sirva.
+</div>
 
 ---
 
-## 🎮 Un poco más de mí
+## 🚀 Lo que hago
 
-Además del desarrollo, me interesan:
+* 🏭 Desarrollo de **sistemas para necesidades reales**
+* 🖥️ Desarrollo de aplicaciones y herramientas web
+* 🎨 Interfaces funcionales y fáciles de utilizar
+* 🔌 Integración y consumo de APIs
+* 🧩 Resolución de problemas y errores
+* 🔧 Mejora y mantenimiento de sistemas
+* 🤖 Uso de IA para investigar, desarrollar y pulir soluciones
+* 📦 Organización y gestión de proyectos con Git/GitHub
+
+---
+
+## 💡 Cómo trabajo
+
+Cuando aparece un problema intento no quedarme solamente con "hacer que funcione".
+
+Primero intento **entender por qué sucede**.
+
+Después:
+
+```text
+        PROBLEMA
+           ↓
+      ENTENDERLO
+           ↓
+      INVESTIGAR
+           ↓
+    PROBAR SOLUCIONES
+           ↓
+        RESOLVER
+           ↓
+        PULIR
+           ↓
+    RESULTADO FINAL
+```
+
+La IA también forma parte de mi flujo de trabajo. La utilizo principalmente para **investigar, encontrar alternativas, detectar detalles y mejorar soluciones**, sin dejar de entender lo que estoy haciendo.
+
+---
+
+## 📌 Proyectos personales
+
+### 💼 NineJobs
+
+Plataforma web orientada a la publicación y búsqueda de ofertas laborales.
+
+**Tecnologías:**
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+
+</div>
+
+* Publicación de ofertas
+* Búsqueda de ofertas
+* Visualización de información
+* Gestión mediante `localStorage`
+* Interfaz responsive
+* Organización por diferentes secciones
+
+---
+
+### 🟡 The Simpsons API
+
+Proyecto desarrollado para trabajar con una API externa y practicar el manejo de datos dinámicos.
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+
+</div>
+
+Incluye:
+
+* Consumo de API
+* Búsqueda de personajes
+* Paginación
+* Sistema de favoritos
+* Manipulación del DOM
+* Manejo de datos dinámicos
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pochiloko&show_icons=true&hide_border=true&theme=dark&title_color=91e989&icon_color=91e989&text_color=c9d1d9&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochiloko&layout=compact&hide_border=true&theme=dark&title_color=91e989&text_color=c9d1d9&bg_color=0d1117"/>
+
+</div>
+
+---
+
+## 🎮 Más allá del código
+
+Cuando no estoy programando también me interesan:
 
 🎮 **Gaming**
 🤖 **Inteligencia Artificial**
 💻 **Tecnología**
-
-Me gusta aprender cosas nuevas y convertir lo que aprendo en algo que pueda utilizar.
-
----
-
-### 📌 Actualmente
-
-> Desarrollando sistemas para entornos reales, construyendo proyectos propios y aprendiendo nuevas herramientas para seguir mejorando.
+🇯🇵 **Japón y cultura japonesa**
+🧠 **Aprender cosas nuevas**
 
 ---
 
-**Santiago Drapperi — Pochi**
-*Building things that work.*
+<div align="center">
+
+### 💚 Construyendo, aprendiendo y mejorando.
+
+**Gracias por visitar mi perfil.**
+
+</div>
