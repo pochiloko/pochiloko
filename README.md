@@ -1,63 +1,128 @@
-# Santiago Drapperi
+# Santiago Drapperi — Pochi
 
-### Pochi
+💻 **Front-End Developer**
+🤖 **IA como herramienta de desarrollo**
+🛠️ **Sistemas funcionales y fáciles de usar**
 
-**Front-End • IA • Tecnología • Soluciones reales**
+---
 
-Soy Santiago Drapperi, aunque todos me dicen **Pochi**.
+## 👋 Sobre mí
 
-Actualmente trabajo desarrollando sistemas y aplicaciones para una fábrica, formando parte de un equipo y participando en la organización y resolución de problemas.
+Soy **Santiago Drapperi**, pero me dicen **Pochi**.
 
-Me interesa crear programas que sean **fáciles de usar, funcionales y profesionales**, cuidando tanto el diseño como la experiencia de quien los utiliza.
+Trabajo en el desarrollo de múltiples sistemas y aplicaciones para una fábrica, formando parte de un equipo y participando tanto en el desarrollo como en la organización y resolución de problemas.
 
-También utilizo herramientas de IA durante el desarrollo para investigar, resolver problemas, pulir detalles y evitar dejar cabos sueltos que puedan afectar la experiencia del usuario.
+Me gusta crear soluciones que no solamente funcionen, sino que sean **fáciles de entender, agradables de utilizar y profesionales**.
 
-## 🏭 Experiencia
+Cuando aparece un problema intento entenderlo, investigar, probar diferentes soluciones y utilizar las herramientas disponibles para llegar al mejor resultado.
 
-### Desarrollo de sistemas para entornos reales
+También utilizo **IA como parte de mi proceso de desarrollo**, especialmente para investigar, resolver problemas, revisar detalles y encontrar cosas que puedan mejorar la experiencia del usuario.
 
-Desarrollo y trabajo con múltiples sistemas y aplicaciones destinados a resolver necesidades concretas dentro de un entorno de trabajo real.
+---
 
-Por cuestiones de privacidad, estos proyectos no son públicos, pero representan una parte importante de mi experiencia trabajando con problemas reales y buscando soluciones funcionales.
+## 🏭 Experiencia real
 
-## 🛠️ Tecnologías y herramientas
+### Sistemas y aplicaciones para una fábrica
+
+Trabajo con múltiples programas y aplicaciones destinados a resolver necesidades concretas dentro de un entorno real.
+
+Esto implica trabajar con problemas reales, usuarios reales y necesidades que no siempre tienen una solución evidente.
+
+Los sistemas de este entorno son privados, por lo que no publico su código, pero forman parte de mi experiencia práctica.
+
+**Enfoque:**
+
+* Resolver problemas reales
+* Crear herramientas funcionales
+* Mejorar la experiencia de usuario
+* Mantener un buen diseño
+* Investigar y probar soluciones
+* Utilizar IA como herramienta de apoyo
+* Trabajar dentro de un equipo
+
+---
+
+## ⚡ Tech Stack
 
 ### Front-End
 
-HTML · CSS · JavaScript · React
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
-### Programación
+### Programming
 
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
-### IA & Desarrollo
+### AI & Development
 
-Claude Code · Herramientas de IA
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
 
-### Herramientas
+### Tools & Deployment
 
-Git · GitHub · Vercel · y otras herramientas de desarrollo
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
-## 🚀 Proyectos personales
+---
 
-### NineJobs
+## 🚀 Projects
 
-Plataforma web orientada a la publicación y búsqueda de ofertas laborales.
+### 🟢 NineJobs
 
-**Tecnologías:** HTML · CSS · JavaScript
+Plataforma web enfocada en ofertas laborales.
 
-### The Simpsons API
+**Stack:** HTML · CSS · JavaScript
 
-Proyecto web desarrollado utilizando una API para consultar y mostrar información de personajes de Los Simpson.
+Proyecto desarrollado para practicar la creación de una aplicación web completa, trabajando con interfaces, formularios, almacenamiento de información y diferentes páginas.
 
-**Tecnologías:** HTML · CSS · JavaScript · API REST
+---
 
-## 🎯 Enfoque
+### 🟡 The Simpsons API
 
-Me gusta trabajar entendiendo primero el problema, investigar distintas posibilidades, probar soluciones y pedir ayuda cuando es necesario.
+Aplicación web que consume una API y muestra información de personajes de **The Simpsons**.
 
-Mi objetivo no es solamente conseguir que un programa funcione, sino conseguir que sea **útil, claro, funcional y agradable de utilizar**.
+**Stack:** HTML · CSS · JavaScript · REST API
 
-## 🎮 Intereses
+Proyecto enfocado en aprender a trabajar con APIs, peticiones, datos dinámicos y manipulación del DOM.
 
-Gaming · Inteligencia Artificial · Tecnología · Desarrollo de software
+---
+
+## 🧠 How I work
+
+```text
+Problema
+   ↓
+Entender
+   ↓
+Investigar
+   ↓
+Probar
+   ↓
+Resolver
+   ↓
+Pulir
+   ↓
+Resultado
+```
+
+Busco entregar soluciones que sean:
+
+**Funcionales · Claras · Profesionales · Fáciles de usar**
+
+---
+
+## 🎮 Beyond Code
+
+🎮 Gaming
+🤖 Inteligencia Artificial
+💻 Tecnología
+🧠 Aprendizaje constante
+
+---
+
+## 📈 GitHub
+
+> Construyendo proyectos, aprendiendo nuevas tecnologías y mejorando poco a poco.
